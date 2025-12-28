@@ -39,7 +39,8 @@ Built with Flutter and OpenStreetMap map tiles, it is suitable as a starter temp
 - Android Studio or VS Code with Flutter plugins
 - Emulator or physical device with location enabled
 
-### Installation
+
+
 
 
 
